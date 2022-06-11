@@ -1,6 +1,3 @@
 # Un texto relevante
 
-- git ssalí a comprar
-
-- volvi de comprar
-
+Costó pero pude hacer el push del repositorio a github.
